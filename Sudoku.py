@@ -150,15 +150,3 @@ def all(b):
     Solver(b)
     print_board(b)
 
-
-# all(board)
-# print_board(board)
-# print('______________________')
-# print(check(board, 1, spot_finder(board)))
-# print(Solver(board))
-# print('done with solver')
-# print_board(board)
-# print(spot_finder(board))
-# print(check(board, 1, spot_finder(board)))
-# print(Solver(board))
-# print(check(board, 1, (0, 2)))
